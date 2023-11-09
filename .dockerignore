@@ -1,0 +1,5 @@
+.env
+.gitignore
+notas.txt
+template-demo.yml
+db.sqlite3
